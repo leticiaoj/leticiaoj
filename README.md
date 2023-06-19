@@ -5,7 +5,7 @@
 </div>
 </br>
   <div align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaoj&layout=pie)](https://github.com/leticiaoj/github-readme-stats)
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaoj&layout=pie&dark_mode"
 </div>
 </div>
 </br>
