@@ -5,7 +5,7 @@
 </div>
 
 ```js
-import Desenvolvedor from 'SeuNick';
+import Desenvolvedor from 'Leticiaoj';
 
 class SobreMim extends Desenvolvedora {
   nome = 'Letícia';
