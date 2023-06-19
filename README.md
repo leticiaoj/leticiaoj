@@ -1,10 +1,4 @@
-<div align="center">
-  <h2> Seja bem vindo!</h2>
-  <h1>Sou a Letícia, uma Desenvolvedora Full Stack.</h1>
-</br>
-</div>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&weight=800&size=40&pause=100000&color=DC690F&background=FFFFFF00&center=true&vCenter=true&width=950&height=60&lines=Tecnologias+que+eu+domino%3A" alt="Typing SVG" /></a> <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&weight=800&size=40&pause=100000&color=DC690F&background=FFFFFF00&center=true&vCenter=true&width=950&height=60&lines=Seja+muito+bem+vindo+!%3A" alt="Typing SVG" /></a> <br>
 
 ```js
 import Desenvolvedora from 'Leticiaoj';
