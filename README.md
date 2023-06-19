@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B03B&center=true&vCenter=true&width=435&lines=Seja+muito+bem+vindo!" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B03B&center=true&multiline=true&width=435&lines=Seja+muito+bem+vindo!;Sou+a+Let%C3%ADcia%2C+uma+Desenvolvedora+Full+Stack.)](https://git.io/typing-svg)
 
 ```js
 import Desenvolvedora from 'Leticiaoj';
