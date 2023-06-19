@@ -28,6 +28,7 @@
 </br>
 
  <div align="center">
+   <h2>Conheça um pouco sobre mim: </h2>
   <a href="https://www.youtube.com/watch?v=bbxvICmrqOY" target="_blank"><img src="https://img.shields.io/badge/Apresentação Pessoal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:leticia.oliveira201489@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leticiaj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
