@@ -2,6 +2,7 @@
   <h2> Seja bem vindo!</h2>
   <h1>Sou a Letícia, uma Desenvolvedora Full Stack.</h1>
 </br>
+</div>
 
 ```js
 import Desenvolvedor from 'SeuNick';
