@@ -1,9 +1,25 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=99CCCC&size=35&center=true&vCenter=true&width=1000&lines=Olá!+sou+a+Jeanine+Santiago😊;Bem+vindo+ao+meu+perfil+GitHub👋;Sou+uma+Desenvolvedora+Jr👩🏽‍💻.)](https://git.io/typing-svg)
 <div align="center">
 <h2> Seja bem vindo!</h2>
   <h1>Sou a Letícia, uma Desenvolvedora Full Stack.</h1>
 </div>
 </br>
+
+```js
+import Desenvolvedor from 'SeuNick';
+
+class SobreMim extends Desenvolvedora {
+  nome     = 'Letícia';
+  faculdade  = 'Sistemas de Informação';
+  local = 'São Paulo';
+}
+
+class Skills extends Desenvolvedora {
+  linguagens  = ['Suas linguagens'];
+  bibliotecas  = ['Suas bibliotecas'];
+  frameworks = ['Seus frameworks'];
+}
+```
+
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaoj&layout=pie&theme=dark">
 </div>
