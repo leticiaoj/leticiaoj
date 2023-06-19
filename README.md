@@ -4,12 +4,6 @@
   <h1>Sou a Letícia, uma Desenvolvedora Full Stack.</h1>
 </div>
 </br>
-<div align="center">
-  <div align="center">
-  <a href="https://github.com/leticiaoj">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiaoj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </div>
-</br>
   <div align="center">
     <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaoj&layout=pie&theme=dark"/>
 </div>
