@@ -38,4 +38,4 @@
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/leticiaoj/count.svg" /></p>
 
 
-![snake gif](https://github.com/leticiaoj/leticiaoj/blob/output/github-contribution-grid-snake.gif)
+![gitartwork](gitartwork.svg)
