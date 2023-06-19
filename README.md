@@ -1,6 +1,6 @@
 <div align="center">
 <h2> Seja bem vindo!</h2>
-  <h1>Sou a Letícia, uma Desenvolvedora Full Stack.</h1>
+  <h1 style="font-family: Verdana, sans-serif; color: red;>Sou a Letícia, uma Desenvolvedora Full Stack.</h1>
 </div>
 </br>
 
