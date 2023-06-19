@@ -11,7 +11,7 @@
     </div>
 </br>
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaoj&layout=compact&langs_count=7&theme=dark"/>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 </div>
 </br>
