@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B82C&center=true&vCenter=true&width=435&lines=Seja+muito+bem+vindo!" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&weight=800&size=40&duration=2000&pause=1000&color=#F7B82CFF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1200&height=70&lines=Ol%C3%A1+meu+nome+%C3%A9+Thiago+e+sou+um+Dev+Full-Stack!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&weight=800&size=40&duration=2000&pause=1000&color=F7B82CFF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1200&height=70&lines=Ol%C3%A1+meu+nome+%C3%A9+Thiago+e+sou+um+Dev+Full-Stack!" alt="Typing SVG" /></a>
 
 ```js
 import Desenvolvedora from 'Leticiaoj';
