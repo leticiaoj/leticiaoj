@@ -11,4 +11,4 @@
 - 😄 Pronouns: she/her
 
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/leticiaoj/leticiaoj/blob/output/github-contribution-grid-snake.svg)
