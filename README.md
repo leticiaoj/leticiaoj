@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá!
+### Sou a Letícia, uma Desenvolvedora Fullstack
+
 
 <!--
 **leticiaoj/leticiaoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
