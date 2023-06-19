@@ -26,9 +26,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img align="center" height="40" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" height="40" width="40" alt="ts-icon"  src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg">
-  <img align="center" height="40" width="40" alt="git-icon"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+  <img height="40" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img height="40" width="40" alt="ts-icon"  src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg">
+  <img height="40" width="40" alt="git-icon"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 </div>
  </div>
 </br>
