@@ -23,6 +23,7 @@
   <img height="40" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img height="40" width="40" alt="ts-icon"  src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg">
   <img height="40" width="40" alt="git-icon"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  </div>
 </br>
