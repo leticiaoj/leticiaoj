@@ -11,7 +11,7 @@
     </div>
 </br>
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaoj&layout=pie"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaoj&layout=pie&theme=dark"/>
 </div>
 </div>
 </br>
