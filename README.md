@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=99CCCC&size=35&center=true&vCenter=true&width=1000&lines=Olá!+sou+a+Jeanine+Santiago😊;Bem+vindo+ao+meu+perfil+GitHub👋;Sou+uma+Desenvolvedora+Jr👩🏽‍💻.)](https://git.io/typing-svg)
 <div align="center">
 <h2> Seja bem vindo!</h2>
   <h1>Sou a Letícia, uma Desenvolvedora Full Stack.</h1>
