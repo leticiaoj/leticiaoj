@@ -17,6 +17,7 @@ class Skills extends Desenvolvedora {
   bibliotecas = ['MySQL, HTML, CSS'];
   frameworks = ['React.js, Node.js, Material UI, Spring Boot'];
   ferramentas = ['Docker, Git, GitHub'];
+  competencias = ['Comunicação, Trabalho em Equipe, Atenção aos Detalhes'];
 }
 ```
 
