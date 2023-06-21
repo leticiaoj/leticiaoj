@@ -13,8 +13,8 @@ class SobreMim extends Desenvolvedora {
 }
 
 class Skills extends Desenvolvedora {
-  linguagens = ['Java, TypeScript, TypeScript, Python'];
-  bibliotecas = ['MySQL, HTML, CSS'];
+  linguagens = ['Java, Python, SQL, TypeScript, JavaScript'];
+  bibliotecas = ['HTML, CSS'];
   frameworks = ['React.js, Node.js, Material UI, Spring Boot'];
   ferramentas = ['Docker, Git, GitHub'];
   competencias = ['Comunicação, Trabalho em Equipe, Atenção aos Detalhes'];
