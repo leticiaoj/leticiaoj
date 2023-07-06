@@ -8,7 +8,7 @@ import Desenvolvedora from 'Leticiaoj';
 class SobreMim extends Desenvolvedora {
   nome = 'Letícia';
   faculdade = 'Sistemas de Informação';
-  bootcamp = 'Pessoa Desenvolvedora Java';
+  bootcamp = 'Pessoa Desenvolvedora Web Full Stack';
   local = 'São Paulo';
 }
 
