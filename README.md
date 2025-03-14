@@ -44,7 +44,7 @@ class Skills extends Desenvolvedora {
 </div>
  </div>
 </br>
-
+ 
  <div align="center">
    <h2>Conheça um pouco mais sobre mim: </h2>
   <a href="https://www.youtube.com/watch?v=bbxvICmrqOY" target="_blank"><img src="https://img.shields.io/badge/Apresentação Pessoal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
