@@ -7,7 +7,9 @@ import Desenvolvedora from 'Leticiaoj';
 
 class SobreMim extends Desenvolvedora {
   nome = 'Letícia';
-  faculdade = 'Sistemas de Informação';
+  faculdade1 = 'Sistemas de Informação';
+  faculdade2 = 'Análise e Desenvolvimento de Sistemas';
+  instituicao = 'Instituto Federal de São Paulo (IFSP)';
   bootcamp = 'Pessoa Desenvolvedora Web Full Stack';
   local = 'São Paulo';
 }
