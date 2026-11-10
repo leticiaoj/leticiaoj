@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&weight=500&size=30&pause=100000&color=FFBF51&background=FFFFFF00&center=true&vCenter=true&width=950&height=60&lines=Seja+muito+bem+vindo!" alt="Typing SVG" /></a> <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&weight=500&size=30&pause=100000&color=FFBF51&background=FFFFFF00&center=true&vCenter=true&width=950&height=60&lines=Seja+muito+bem+-+vindo!" alt="Typing SVG" /></a> <br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&weight=500&size=30&pause=100000&color=EF934C&background=FFFFFF00&center=true&vCenter=true&width=950&height=60&lines=Sou+a+Letícia,+uma+Desenvolvedora+Web+Full+Stack." alt="Typing SVG" /></a> <br>
 
@@ -7,6 +7,8 @@ import Desenvolvedora from 'Leticiaoj';
 
 class SobreMim extends Desenvolvedora {
   nome = 'Letícia';
+  profissao = 'Especialista em Recuperação de Crédito';
+  empresa = 'Banco Santander';
   faculdade1 = 'Sistemas de Informação';
   faculdade2 = 'Análise e Desenvolvimento de Sistemas';
   instituicao = 'Instituto Federal de São Paulo (IFSP)';
@@ -53,5 +55,3 @@ class Skills extends Desenvolvedora {
   <a href="https://www.linkedin.com/in/leticiaj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/leticiaoj/count.svg" /></p>
-
