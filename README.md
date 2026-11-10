@@ -7,7 +7,7 @@ import Desenvolvedora from 'Leticiaoj';
 
 class SobreMim extends Desenvolvedora {
   nome = 'Letícia';
-  profissao = 'Especialista em Recuperação de Crédito';
+  cargo = 'Especialista em Recuperação de Crédito';
   empresa = 'Banco Santander';
   faculdade1 = 'Sistemas de Informação';
   faculdade2 = 'Análise e Desenvolvimento de Sistemas';
