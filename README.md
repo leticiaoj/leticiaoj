@@ -1,27 +1,27 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&weight=500&size=30&pause=100000&color=FFBF51&background=FFFFFF00&center=true&vCenter=true&width=950&height=60&lines=Seja+muito+bem-vindo!" alt="Typing SVG" /></a> <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&weight=500&size=30&pause=100000&color=FFBF51&background=FFFFFF00&center=true&vCenter=true&width=950&height=60&lines=Welcome!" alt="Typing SVG" /></a> <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&weight=500&size=30&pause=100000&color=EF934C&background=FFFFFF00&center=true&vCenter=true&width=950&height=60&lines=Sou+a+Letícia,+uma+Desenvolvedora+Web+Full+Stack." alt="Typing SVG" /></a> <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rowdies&weight=500&size=30&pause=100000&color=EF934C&background=FFFFFF00&center=true&vCenter=true&width=950&height=60&lines=I'm+Letícia,+a+Full+Stacl+Web+Developer." alt="Typing SVG" /></a> <br>
 
 ```js
-import Desenvolvedora from 'Leticiaoj';
+import Developer from 'Leticiaoj';
 
-class SobreMim extends Desenvolvedora {
-  nome = 'Letícia';
-  cargo = 'Especialista em Recuperação de Crédito';
-  empresa = 'Banco Santander';
-  faculdade1 = 'Sistemas de Informação';
-  faculdade2 = 'Análise e Desenvolvimento de Sistemas';
-  instituicao = 'Instituto Federal de São Paulo (IFSP)';
-  bootcamp = 'Pessoa Desenvolvedora Web Full Stack';
-  local = 'São Paulo';
+class AboutMe extends Developer {
+  name = 'Letícia';
+  role = 'Credit Recovery Specialist';
+  company = 'Banco Santander';
+  degree1 = 'Information Systems';
+  degree2 = 'Systems Analysis and Development';
+  institution = 'Federal Institute of São Paulo (IFSP)';
+  bootcamp = 'Full Stack Web Developer';
+  location = 'São Paulo';
 }
 
-class Skills extends Desenvolvedora {
-  linguagens = ['Java, Python, SQL, TypeScript, JavaScript'];
-  bibliotecas = ['HTML, CSS'];
+class Skills extends Developer {
+  languages = ['Java, Python, SQL, TypeScript, JavaScript'];
+  libraries = ['HTML, CSS'];
   frameworks = ['React.js, Node.js, Material UI, Spring Boot'];
-  ferramentas = ['Docker, Git, GitHub'];
-  competencias = ['Comunicação, Trabalho em Equipe, Proatividade'];
+  tools = ['Docker, Git, GitHub'];
+  competencies = ['Communication, Teamwork, Proactivity'];
 }
 ```
 
@@ -50,7 +50,7 @@ class Skills extends Desenvolvedora {
 </br>
  
  <div align="center">
-   <h2>Conheça um pouco mais sobre mim: </h2>
+   <h2>Get to know me better: </h2>
   <a href = "mailto:leticia.oliveira201489@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leticiaj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
